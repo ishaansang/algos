@@ -1,3 +1,6 @@
+##Algorithms by Ishaan Sang:
+______________________________
+
 Collection of different algorithms, used for programming competitions (like ACM ICPC).
 
 Contains algorithms divided by topic. Most algorithms are runnable from the file as is. 
